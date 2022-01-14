@@ -1,4 +1,7 @@
 //Problem link - UBER coding 300 point question
+//this only works for the following constraints
+// 1 <= n <= 20
+// 1 <= array[i] <= 100
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int,
