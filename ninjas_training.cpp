@@ -1,4 +1,4 @@
-//Problem link - 
+//Problem link - https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int,
